@@ -175,10 +175,4 @@ With ~1,900 records, a transformer model risks overfitting and sacrifices the co
 
 - Replace TF-IDF with contextual embeddings (e.g., a fine-tuned clinical BERT) and re-run the same audit
 - Collect more data for low-support departments
-- Expand the confidence-threshold fallback into a tiered triage system
-
----
-
-## 📄 License
-
-Dataset: CC0 (Public Domain). Code: for academic use as part of SAII's NLP coursework.
+- Expand the confidence-threshold fallback into a tiered triage system.
